@@ -1,0 +1,96 @@
+h1{
+    font-family: "TTInterfacesMedium";
+    src: url("../fonts/TTInterfacesMedium/TTInterfacesMedium.eot");
+    src: url("../fonts/TTInterfacesMedium/TTInterfacesMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesMedium/TTInterfacesMedium.woff") format("woff"),
+    url("../fonts/TTInterfacesMedium/TTInterfacesMedium.ttf") format("truetype");
+    font-weight: 400;
+    font-size: 300%;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    text-decoration: none;
+    text-align: right;
+    margin-right: 10%;
+}
+.layer {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    width: 300px;
+    padding: 200px 200px 400px;
+    background: rgb(10, 102, 77, 0.2);;
+    margin-left: -0.5em;
+    margin-right: auto;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Belorussian_SSR_in_1940_after_annexation_of_eastern_Poland.jpg/1190px-Belorussian_SSR_in_1940_after_annexation_of_eastern_Poland.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px 140px;
+    background-size: contain;
+}
+
+.shtooki{
+    white-space: nowrap; 
+    overflow: hidden; 
+    background: rgb(10, 102, 77);
+    padding: 5px; 
+    text-overflow: ellipsis;
+    margin-right: 40%;
+}
+div{
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    text-decoration: none;
+    color: rgb(55, 55, 55);
+    line-height: 55px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;s
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+    text-align: left;
+    tab-size: 4;
+    writing-mode: horizontal-tb;
+    line-height: 50px;
+    pointer-events: auto;
+    width: 50%;
+    margin-left: 50%;
+}
+ol{
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 37.3333px;
+    font-family: monospace;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.05em;
+    text-align: right;
+    display: inline-block;
+    margin-top: 70px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    justify-content: right;
+    margin-left: 700px;
+}
+a{
+    fosnt-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: monospace;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.05em;
+    text-align: right;
+    margin-right: 40%;
+}
